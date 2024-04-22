@@ -1,0 +1,1 @@
+den Nutzer nach seinem Namen  fragen und eine personalisierte Begrüßung auszugeben
